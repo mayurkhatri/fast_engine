@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Fastengine::VERSION
   s.authors     = ["mayurkhatri"]
   s.email       = ["mayurkhatri122@gmail.com"]
-  s.homepage    = "https://github.com/platanus/activeadmin_jobs"
+  s.homepage    = "https://github.com/mayurkhatri/fast_engine"
   s.summary     = "world's fasted engine at rest"
   s.description = "Foundation for great work to come"
   s.license     = "MIT"
